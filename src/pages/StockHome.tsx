@@ -1,0 +1,1 @@
+export default function StockHome() { return <div>종목홈</div> }

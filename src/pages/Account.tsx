@@ -1,0 +1,1 @@
+export default function Chart() { return <div>차트</div> }

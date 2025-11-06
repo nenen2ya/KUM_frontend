@@ -1,0 +1,1 @@
+export default function Quote() { return <div>호가</div> }

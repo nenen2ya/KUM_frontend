@@ -1,0 +1,1 @@
+export default function Order() { return <div>주문창</div> }
